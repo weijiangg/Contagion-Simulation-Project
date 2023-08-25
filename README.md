@@ -2,9 +2,9 @@
 
 This project is inspired by this <a href="https://www.washingtonpost.com/graphics/2020/world/corona-simulator/">Washington Post’s article that simulated infectiousness</a> with 2D cells in a graphical visualization. 
 
-In the simulation, 2D cells are in one of three state: vulnerable (grey), infected (red), or immuned (blue). As the cells move around, if a vulnerable cell comes into contacts with a infected cell, they become infected. After the recovery period is over, that cell then becomes immuned. The simulation ends no cells are infected.
+In the simulation, 2D cells are in one of three states: vulnerable (grey), infected (red), or immune (green). As the cells move around, if a vulnerable cell comes into contact with an infected cell, they become infected. After a set recovery period is over, that cell then becomes immune. The simulation ends when no cells are infected.
 
-To simulate differnt situations, varibles can be changed. Such as:
+To simulate different situations, variables can be changed. Such as:
 1. The total number of cells
 2. The number of cells that start in each state at the beginning of the simulation
 3. The recovery period time
