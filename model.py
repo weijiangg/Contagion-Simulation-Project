@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 from random import random
-from exercises.ex09 import constants
+import constants
 from math import sin, cos, pi, sqrt
 
 

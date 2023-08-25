@@ -1,8 +1,8 @@
 """This specially named module makes the package runnable."""
 
-from exercises.ex09 import constants
-from exercises.ex09.model import Model
-from exercises.ex09.view_controller import ViewController
+import constants
+from model import Model
+from view_controller import ViewController
 
 
 
