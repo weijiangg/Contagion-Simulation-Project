@@ -1,6 +1,6 @@
 # Contagion-Simulation-Project
 
-This project is inspired by the Washington Post’s article (https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) that simulated infectiousness with 2D cells in a graphical visualization. 
+This project is inspired by this <a href="https://www.washingtonpost.com/graphics/2020/world/corona-simulator/">Washington Post’s article that simulated infectiousness</a> with 2D cells in a graphical visualization. 
 
 In the simulation, 2D cells are in one of three state: vulnerable (grey), infected (red), or immuned (blue). As the cells move around, if a vulnerable cell comes into contacts with a infected cell, they become infected. After the recovery period is over, that cell then becomes immuned. The simulation ends no cells are infected.
 
